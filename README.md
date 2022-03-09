@@ -27,6 +27,10 @@ Run `npm run refreshTypes` to refresh the types.
 
 Run `npm run lint:fix` to lint and format JavaScript
 
+## Package the control
+
+[Package a code component](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/import-custom-controls)
+
 ## Further help
 
 To get more help on the Power Apps component framework check out the [Power Apps component framework overview](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/overview).
