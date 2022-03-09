@@ -9,7 +9,7 @@ This control is a React JS PCF Code Component I created for model-driven applica
 
 ![App Image](euro-pcf.png)
 
-This project was generated with [Power Apps component framework](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/get-powerapps-cli).
+This project was generated with [Power Apps component framework CLI](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/get-powerapps-cli).
 
 ## Build
 
