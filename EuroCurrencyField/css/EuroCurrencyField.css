@@ -1,0 +1,45 @@
+.ms-TextField-fieldGroup {
+  border: none;
+}
+
+.ms-TextField-fieldGroup:hover {
+  border: 1px solid rgb(96, 94, 92);
+}
+
+input:focus {
+  font-family: 'SegoeUI', 'Segoe UI';
+  font-weight: 400;
+}
+
+input:hover {
+  font-family: 'SegoeUI', 'Segoe UI';
+  font-weight: 400;
+}
+
+.euro_CurrencyField {
+  border-collapse: collapse;
+  border-spacing: 0;
+  white-space: normal;
+  word-break: normal;
+  font-style: normal;
+  font-variant: normal;
+  font-family: 'SegoeUI', 'Segoe UI';
+  box-sizing: border-box;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 100%;
+  height: 2.5rem;
+  text-overflow: ellipsis;
+  border-style: solid;
+  font-weight: 600;
+  font-size: 1rem;
+  color: rgb(0, 0, 0);
+  padding-top: 2px;
+  border-width: 1px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  line-height: 2.5rem;
+  padding-bottom: 7px;
+  border-color: transparent;
+  outline: none;
+}

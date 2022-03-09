@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="Microsoft" constructor="EuroCurrencyField" version="0.0.1" display-name-key="EuroCurrencyField" description-key="EuroCurrencyField description" control-type="standard">
+
+    <!--Control to bind PFC Control Too-->
+    <property name="pcf_euroCurrencyControl" display-name-key="pcf_euroCurrencyControl_Display_Key" description-key="pcf_euroCurrencyControl_Desc_Key" of-type="Currency" usage="bound" required="true" />
+
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/EuroCurrencyField.css" order="2" />
+    </resources>
+
+  </control>
+</manifest>
